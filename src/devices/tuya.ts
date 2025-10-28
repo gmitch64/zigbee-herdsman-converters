@@ -3969,6 +3969,7 @@ export const definitions: DefinitionWithExtend[] = [
             tuya.whitelabel("Danfoss", "014G2480", "Temperature and humidity sensor", ["_TZ3000_mxzo5rhf"]),
             tuya.whitelabel("Tuya", "HS09", "Hanging temperature humidity sensor", ["_TZ3000_1twfmkcc"]),
             tuya.whitelabel("Nedis", "ZBSC10WT", "Temperature and humidity sensor", ["_TZ3000_fie1dpkm"]),
+            tuya.whitelabel("Tuya", "A50-ZY_ZTH02_PRO", "Zigbee 3.0 temperature humidity sensor with display", ["_TZ3000_bgsigers"]),
         ],
     },
     {
